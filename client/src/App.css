@@ -1,0 +1,48 @@
+.navbar-right { margin-right: 0px !important}
+.log {
+  margin: 5px 10px 0 0;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.navbar {
+	margin:10px;
+	padding:10px;
+}
+
+.text-center {
+	font-size:50px;
+}
+
+.btn {
+	font-size:20px;
+}
+
+p {
+	font-size:20px;
+}
+
+.profilephoto {
+	text-align: 
+}
+
+.summary {
+	font-size: 15px;
+}
+
+.footer {
+  min-height: 100px;
+  position: relative;
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #B8B8B8;
+}
